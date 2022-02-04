@@ -20,6 +20,6 @@ After installing all the packages with in the requirements.txt file, just run th
 
 **Sample Output:**
 
-
+<img width="452" alt="image" src="https://user-images.githubusercontent.com/72320207/152525621-f3b00808-e052-4887-a213-15933510051e.png">
 
 
