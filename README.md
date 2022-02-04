@@ -1,6 +1,5 @@
 # **Real time Object Detection using Python**
-rohilsaraf97/YoloObjectDetection
-
+Python: Real Time Object Detection (Image, Webcam, Video files) with Yolov3 and OpenCV
 
 The initial file is written for performing yolov3 object detection on videos, it can be changed to work on images by just commenting and uncommenting a few lines of code.
 
